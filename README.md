@@ -1,6 +1,6 @@
 # Test app for Expert-Garant
 
-DEMO: [MDX](https://mdxjs.com "title")
+[DEMO](https://expert-garant-test.netlify.app/)
 
 ## React + TypeScript + Vite
 
