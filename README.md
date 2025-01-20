@@ -1,6 +1,8 @@
-Test app for Expert-Garant
+# Test app for Expert-Garant
 
-# React + TypeScript + Vite
+DEMO: [MDX](https://mdxjs.com "title")
+
+## React + TypeScript + Vite
 
 ## Run
 
